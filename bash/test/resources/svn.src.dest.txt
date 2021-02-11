@@ -1,0 +1,6 @@
+#main
+http://10.0.0.5/repos/root/test.stubs/main.proj/ test/temp/main.proj/
+
+#sub
+http://10.0.0.5/repos/root/test.stubs/subproj.a/ test/temp/_subs/subproj.a/
+http://10.0.0.5/repos/root/test.stubs/subproj.b/ test/temp/_subs/subproj.b/

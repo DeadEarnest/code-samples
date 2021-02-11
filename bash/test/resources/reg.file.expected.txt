@@ -1,0 +1,266 @@
+
+[Software\ETM\PVSS II\3.14]
+LastUsedProjectDir = "D:/projects.wccoa/"
+currentProject = "main.proj"
+firstPAStart = 1
+Company = ETM professional control GmbH
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\AdvS7base_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\AdvS7base_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\AdvS7base_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\AdvS7base_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+
+[Software\ETM\PVSS II\Configs\AdvS7_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\AdvS7_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\AdvS7_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\AdvS7_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\AMS_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\AMS_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\AMS_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\AMS_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\BACnet_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\BACnet_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\BACnet_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\BACnet_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\BasicS7Base_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\BasicS7Base_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\BasicS7Base_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\BasicS7Base_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\BasicS7_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\BasicS7_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\BasicS7_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\BasicS7_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\CommCenter_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\CommCenter_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\CommCenter_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\CommCenter_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\DBLogger_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\DBLogger_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\DBLogger_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\DBLogger_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\MobileAppServer_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\MobileAppServer_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\MobileAppServer_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\MobileAppServer_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\Redundancy2x2_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\Redundancy2x2_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\Redundancy2x2_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\Redundancy2x2_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\Stdlib_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\Stdlib_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\Stdlib_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\Stdlib_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\cspa.cfg.master_3.14p08]
+notRunnable = 0
+InstallationDate = "2018.09.26 06:40:01.176"
+InstallationUser = "Administrator"
+InstallationVersion = "3.14"
+PVSS_II = "C:\projects.wccoa\cspa.cfg.master_3.14p08\config\config"
+InstallationDir = "C:\projects.wccoa\cspa.cfg.master_3.14p08"
+
+[Software\ETM\PVSS II\Configs\Video_3.14]
+InstallationDate = 26.09.2018 13:34:06
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.14\Video_3.14
+InstallationUser = Administrator
+InstallationVersion = 3.14
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.14\Video_3.14
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.14\Video_3.14\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.14\
+
+[Software\ETM\PVSS II\Configs\cspa.cfg.vsto]
+notRunnable = 0
+InstallationDate = "2018.10.04 05:59:40.886"
+InstallationUser = "Administrator"
+InstallationVersion = "3.14"
+PVSS_II = "C:\projects.wccoa\cspa.cfg.vsto\config\config"
+InstallationDir = "C:\projects.wccoa\cspa.cfg.vsto"
+
+[Software\ETM\PVSS II\3.15]
+currentProject = "SVV33AB"
+firstPAStart = 1
+Company = ETM professional control GmbH
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\AdvS7base_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\AdvS7base_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\AdvS7base_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\AdvS7base_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\AdvS7_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\AdvS7_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\AdvS7_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\AdvS7_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\BACnet_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\BACnet_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\BACnet_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\BACnet_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\BasicS7Base_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\BasicS7Base_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\BasicS7Base_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\BasicS7Base_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\BasicS7_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\BasicS7_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\BasicS7_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\BasicS7_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\CommCenter_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\CommCenter_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\CommCenter_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\CommCenter_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\DBLogger_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\DBLogger_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\DBLogger_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\DBLogger_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\MobileAppServer_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\MobileAppServer_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\MobileAppServer_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\MobileAppServer_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\Redundancy2x2_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\Redundancy2x2_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\Redundancy2x2_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\Redundancy2x2_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\SmartSCADA_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\SmartSCADA_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\SmartSCADA_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\SmartSCADA_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\Stdlib_3.15]
+InstallationDate = 10.10.2018 14:29:57
+InstallationDir = C:\Siemens\Automation\WinCC_OA\3.15\Stdlib_3.15
+InstallationUser = Administrator
+InstallationVersion = 3.15
+notRunnable = 1
+proj_path = C:\Siemens\Automation\WinCC_OA\3.15\Stdlib_3.15
+PVSS_II = C:\Siemens\Automation\WinCC_OA\3.15\Stdlib_3.15\config\config
+pvss_path = C:\Siemens\Automation\WinCC_OA\3.15\
+[Software\ETM\PVSS II\Configs\SVV33AB]
+notRunnable = 0
+InstallationDate = "2018.10.10 09:35:06.036"
+InstallationUser = "Administrator"
+InstallationVersion = "3.15"
+PVSS_II = "C:\projects.wccoa\SVV33AB\config\config"
+InstallationDir = "C:\projects.wccoa\SVV33AB"
+[Software\ETM\PVSS II\Configs\general_3.14p08]
+notRunnable = 0
+InstallationDate = "2018.10.12 13:01:33.769"
+InstallationUser = "Administrator"
+InstallationVersion = "3.14"
+PVSS_II = "C:\projects.wccoa\general_3.14p08\config\config"
+InstallationDir = "C:\projects.wccoa\general_3.14p08"
+

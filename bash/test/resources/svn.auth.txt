@@ -1,0 +1,2 @@
+login = ci.bot
+password = hgr$5sEQE31w35_8&&

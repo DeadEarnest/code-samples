@@ -1,0 +1,20 @@
+[general]
+#base
+pvss_path = "c:/Siemens/Automation/WinCC_OA/3.14"
+
+#sub
+
+#main
+proj_path = "c:/projects.wccoa/general_3.14p08"
+proj_version = "3.14"
+
+#langs
+langs = "en_US.utf8"
+langs = "ru_RU.utf8"
+
+#lang
+lang = "en_US.utf8"
+
+[ui]
+allowDPRename = 1
+defaultPanelFormat = "XML"
